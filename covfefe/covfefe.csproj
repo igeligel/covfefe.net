@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <Version>0.1.0</Version>
+    <Authors>Kevin Peters</Authors>
+    <Company />
+    <Description>covfefe, End Tweets with style</Description>
+  </PropertyGroup>
+
+</Project>
