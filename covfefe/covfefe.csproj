@@ -1,11 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard1.4</TargetFramework>
+    <TargetFramework>netstandard1.0</TargetFramework>
     <Version>0.1.0</Version>
     <Authors>Kevin Peters</Authors>
     <Company />
     <Description>covfefe, End Tweets with style</Description>
+    <PackageLicenseUrl>https://github.com/igeligel/covfefe.net/blob/master/LICENSE.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/igeligel/covfefe.net</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/igeligel/covfefe.net.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>covfefe, trump, dotnet</PackageTags>
   </PropertyGroup>
 
 </Project>
