@@ -12,7 +12,7 @@ PM> Install-Package covfefe
 
 ### Nuget Package
 
-[![NuGet](https://img.shields.io/nuget/dt/covfefe.svg)](https://www.nuget.org/packages/covfefe)
+[![NuGet](https://img.shields.io/nuget/v/covfefe.svg)](https://www.nuget.org/packages/covfefe)
 
 ## Usage
 
